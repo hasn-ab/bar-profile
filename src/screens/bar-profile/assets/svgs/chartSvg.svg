@@ -1,0 +1,11 @@
+<Svg height="100" width="110">
+  <Ellipse
+    cx="55"
+    cy="55"
+    rx="50"
+    ry="30"
+    stroke="purple"
+    strokeWidth="2"
+    fill="yellow"
+  />
+</Svg>
