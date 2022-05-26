@@ -18,7 +18,7 @@ export default function Friend({name = '', style = {}}) {
     <TouchableOpacity onPress={() => setSelected(!selected)}>
       <View style={[styles.container, style]}>
         <ImageBackground
-          source={require('../../assets/friendAvatar.png')}
+          source={require('../../../../assets/friendAvatar.png')}
           resizeMode="cover"
           imageStyle={[styles.avatar, {borderColor: color}]}
           style={styles.avatarBackgound}>
